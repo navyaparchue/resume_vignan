@@ -1,0 +1,46 @@
+{
+	"basicdetails":{
+		"image":"image.jpeg",
+		"name":"K V NAVYA LAKSHMI",
+		"email":"navyalakshmibunny@gmail.com",
+		"phone":"8888888888",
+		"address":"3-27,nagulapalem,prakasam(dist)"
+		},
+"education":[
+        {
+        	"course":"B.TECH(CSE)",
+        	"college":"VNITSW",
+        	"percentage":"78%"
+        },
+        {
+        	"course":"Intermediate(MPC)",
+        	"college":"SRICHAITANYA",
+        	"percentage":"85%"
+        },
+        {
+        	"course":"schooling",
+        	"college":"SFS EM HIGH SCHOOL",
+        	"percentage":"85%"
+        }
+],
+"skills":[
+    {
+    	"name":"Operating Systems",
+    	"value":"Windows,Linux,MAC"
+    },
+    {
+        "name":"Programming Languages",	
+    	"value":"C,C++,Java,Python"
+    }
+],	
+"carrier":{
+	"ca":"I am using my knowledge and skills towards the growth of our organization"
+},
+"Achievements":[
+	"I got first prize in throwball competetion",
+	"I got second prize in carroms"
+],
+"Description":{
+	"des":"Here thereby all the above mentioned are my concerns"
+}
+}
